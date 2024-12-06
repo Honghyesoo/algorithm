@@ -1,2 +1,1 @@
-# algorithm
-# algorithm
+# algorithm 학습
